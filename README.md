@@ -56,7 +56,7 @@ Additional constraints:
 **Requirements:** Node.js 20+
 
 ```bash
-git clone https://github.com/username/mysql-mcp
+git clone https://github.com/turkeryildirim/mysql-mcp
 cd mysql-mcp
 npm install
 npm run build
